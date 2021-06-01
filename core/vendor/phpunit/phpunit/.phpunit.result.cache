@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":229:{a:2:{s:7:"defects";a:2:{s:31:"SessionTest::testSessionWithGet";i:4;s:33:"DataBaseManagerTest::testDataBase";i:4;}s:5:"times";a:2:{s:31:"SessionTest::testSessionWithGet";d:0.015;s:33:"DataBaseManagerTest::testDataBase";d:22.383;}}}
