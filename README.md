@@ -7,13 +7,13 @@ Realizar un cambio en Memorama utilizando la herramienta de Control de Versiones
 
 Reportar en un PDF:
 
-La herramienta de Control de Versiones elegida.
+° La herramienta de Control de Versiones elegida.
 
-Los pasos seguidos.
+° Los pasos seguidos.
 
-Las dificultades encontradas y la forma de solucionarlas.
+° Las dificultades encontradas y la forma de solucionarlas.
 
-Los resultados obtenidos (por ejemplo: “el cambio quedó integrado”).
+° Los resultados obtenidos (por ejemplo: “el cambio quedó integrado”).
 
 Equipo:
 Carlos Cupul,
