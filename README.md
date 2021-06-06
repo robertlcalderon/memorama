@@ -12,6 +12,7 @@ Los pasos seguidos.
 Las dificultades encontradas y la forma de solucionarlas.
 Los resultados obtenidos (por ejemplo: “el cambio quedó integrado”).
 
-Carlos Cupul
-Roberto Calderón
-Pedro Aguilar
+Equipo:
+Carlos Cupul,
+Roberto Calderón,
+Pedro Aguilar.
