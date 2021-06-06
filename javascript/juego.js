@@ -24,13 +24,13 @@ $(document).ready(function() {
 
     switch (dificultad) {
         case "facil":
-            tiempo = 300;
+            tiempo = 45;
             break;
         case "medio":
-            tiempo = 250;
+            tiempo = 30;
             break;
         case "dificil":
-            tiempo = 5;
+            tiempo = 15;
             break;
     }
 
