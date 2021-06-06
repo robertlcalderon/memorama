@@ -23,7 +23,7 @@ $(function(){
             data:data,
             type: 'post',
             beforeSend: function () {
-                $(loginResponse).html("Procesando, espere por favor...");
+                $(loginResponse).html("Procesando, espere un momento por favor...");
             },
             success: function (response) {
                 verifyUser(response);
